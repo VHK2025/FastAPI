@@ -1,0 +1,4 @@
+# For Unix-style files
+Dockerfile text eol=lf
+*.sh       text eol=lf
+*.py       text eol=lf
